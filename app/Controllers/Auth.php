@@ -10,6 +10,7 @@ use ReflectionException;
 
 class Auth extends BaseController
 {
+    
     /**
      * Register a new user
      * @return Response
